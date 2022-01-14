@@ -11,7 +11,7 @@ namespace NestedObjects
         /// <summary>
         /// The legal first and last name
         /// </summary>
-        public string FullName  { get; set; }
+        public string FullName { get; set; }
 
         /// <summary>
         /// The advisor's work email
